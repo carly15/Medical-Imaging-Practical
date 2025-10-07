@@ -19,10 +19,12 @@ Before running the notebook, ensure the following packages are installed:
 - pydicom==3.0.1
 - scikit-image==0.22.0
 
-You can install missing dependencies using:
+  You can install missing dependencies using:
 ```sh
 pip install -q numpy==1.26.3 pandas==2.2.0 matplotlib==3.8.2 pydicom==3.0.1 scikit-image==0.22.0
+```
 
 ## Program Structure
 
+<img width="3006" height="1411" alt="Program structure" src="https://github.com/user-attachments/assets/3d1e4150-dd95-4741-9abe-bcd41f9fea69" />
 
